@@ -6,10 +6,12 @@ Funcionalidade:
   Para verificar o tempo estimado de quando a minha solicitação irá ser atendida
 
   Cenário: existem solicitações na fila
+    Dado que o usuário está logado
     Quando o usuário solicitar lista de solicitações
     Então o sistema informa todas as solicitações na fila
 
   Cenário: não existem solicitações na fila
+    Dado que o usuário está logado
     Quando o usuário solicitar lista de solicitações
     Quando o sistema não achar solicitações do usuário
     Então o sistema informa que não foi encontrada nenhuma solicitação
