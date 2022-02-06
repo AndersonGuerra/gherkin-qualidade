@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Visualizar estatísticas gerais
   Como um usuário administrador do sistema
   Eu gostaria de visualizar as estatísticas do setor em relação às solicitações
   Para tomada de decisão em relação a gerência do Help Desk

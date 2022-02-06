@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Efetura login
   Como um usuário do sistema
   Eu gostaria de efetuar login
   Para ter acesso às funcionalidades oferecidas pelo sistema referente ao meu perfil de usuário

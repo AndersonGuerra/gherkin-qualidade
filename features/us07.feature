@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Enviar mensagem sobre solicitação
   Como um usuário do sistema logado
   Eu gostaria enviar uma mensagem ao solicitante ou atendente do pedido de solicitação
   Para sanar dúvidas ou esclarecimentos acerca da solicitação

@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Visualizar solicitações na fila
   Como um usuário do sistema logado
   Eu gostaria de verificar minhas solicitações de ajuda
   Para verificar o tempo estimado de quando a minha solicitação irá ser atendida

@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Realizar uma solicitação
     Como um usuário do sistema logado
     Eu gostaria de realizar uma nova solicitação ao Help Desk
     Para sanar dúvidas ou ser ajudado com alguma dificuldade no site

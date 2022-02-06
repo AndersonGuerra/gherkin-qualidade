@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Solicitar a reabertura de uma solicitação
   Como um usuário do sistema logado
   Eu gostaria de realizar a reabertura de uma solicitação ao Help Desk
   Para sanar dúvidas de um atendimento inadequado ou uma nova solicitação relacionada a fechada

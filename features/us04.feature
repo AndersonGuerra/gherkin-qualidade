@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Avaliar atendimento de solicitação de HelpDesk
   Como um usuário do sistema logado
   Eu gostaria avaliar o atendimento da minha solicitação
   Para dar o feedback de melhorias, e avaliar o atendimento de um atendente

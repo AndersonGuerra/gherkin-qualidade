@@ -1,16 +1,11 @@
 from behave import *
 
 
-@given("cliente efetua login")
-def teste_cliente_efetua_login(context):
-    pass
+@when("usuário insere email e senha")
+@then("o sistema deve logar o usuário")
 
 
-@when("cliente insere email e senha")
-def teste_cliente_insere_email_senha(context):
-    pass
-
-
-@then("o sistema deve logar o cliente")
-def teste_sistema_loga_cliente(context):
+@when("email ou senha incorretos")
+@then("o sistema informa que email ou senha estão incorretos")
+def teste(context):
     pass

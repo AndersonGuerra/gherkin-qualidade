@@ -1,6 +1,8 @@
 # language: pt
 
-Funcionalidade:
+@unitários
+
+Funcionalidade: Aceitar solicitação
   Como um usuário atendente do sistema
   Eu gostaria de aceitar uma solicitação da fila de solicitações
   Para dar andamento na solicitação de um usuário do sistema
